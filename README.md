@@ -1,7 +1,10 @@
 # Apache Spark – Tutorial de Clasificación con PySpark
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD1Tsz-TGSmWtmI0NCrivhX8pcljNrvDgMETaY1n7WAMQ_AwTbCAwjKIR0&s=10)
+
 
 **Estudiantes:** Juan Sebastián Sánchez Arboleda, Samuel Monsalve, Juan David Ramos
-**Asignatura:** Big Data  
+**Asignatura:** Procesamiento de datos
+**Institución** Pontificia Universidad Javeriana
 **Fecha:** 21 de septiembre de 2026
 
 ## Contenido
