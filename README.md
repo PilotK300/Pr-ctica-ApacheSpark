@@ -31,11 +31,11 @@ El ejercicio incluye:
 
 1. Abrir el archivo `.ipynb`.
 2. Ejecutar las celdas de arriba hacia abajo.
-3. Instalar PySpark desde la primera celda si hace falta.
+3. Instalar PySpark desde la primera celda si  hace falta.
 4. Verificar que Java esté disponible.
 5. Ajustar la ruta del conjunto Iris si se ejecuta fuera del entorno original de Kaggle.
 
 ## Archivo principal
 
-`ApacheSparkTutorial_Desarrollado_JuanSebastianSanchez.ipynb`
+`ApacheSparkTutorial.ipynb`
 
